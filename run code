@@ -1,0 +1,4 @@
+pip3 install pyqt5 lxml # Install qt and lxml by pip
+
+make qt5py3
+python3 labelImg.py
